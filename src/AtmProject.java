@@ -15,6 +15,9 @@ public class AtmProject {
         //version msb1
 
         System.out.println("bir kisim kodlar");
-        //nsb2
+        //msb2
+
+        System.out.println();
+        //msb3
     }
 }
