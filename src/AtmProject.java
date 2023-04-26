@@ -13,5 +13,8 @@ public class AtmProject {
 
         System.out.println("nesibe branchi kodlarini yazdi.");
         //version msb1
+
+        System.out.println("bir kisim kodlar");
+        //nsb2
     }
 }
