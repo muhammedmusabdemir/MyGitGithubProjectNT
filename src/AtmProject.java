@@ -21,5 +21,6 @@ public class AtmProject {
         //msb3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim
     }
 }
